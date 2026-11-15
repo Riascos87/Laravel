@@ -1,8 +1,6 @@
-<? php
-
+<?php
 namespace App\Dominio;
-
-
+                    
 class Persona
 {
     private string $nombre;
